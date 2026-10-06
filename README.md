@@ -1,7 +1,7 @@
 # daily-log
 
-One commit per day, pushed from a Linux VM by a systemd timer. No dependencies beyond
-`git`, `ssh`, and `systemd`.
+3–7 commits per day (count varies by date), pushed from a Linux VM by a systemd timer.
+No dependencies beyond `git`, `ssh`, and `systemd`.
 
 ## Setup on the VM (Oracle Cloud, Ubuntu/Oracle Linux)
 
